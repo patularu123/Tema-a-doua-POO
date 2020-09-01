@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1598968720 source:c:\users\dumitru\desktop\c++\tema 2 poo\main.cpp
+	<iostream>
+
+1598968720 source:c:\users\dumitru\desktop\c++\tema 2 poo\src\coada_prioritati.cpp
+	"Coada_prioritati.h"
+	<iostream>
+
+1598969151 c:\users\dumitru\desktop\c++\tema 2 poo\include\coada_prioritati.h
+	<iostream>
+	"Nod_prioritate.h"
+
+1598969151 c:\users\dumitru\desktop\c++\tema 2 poo\include\nod_prioritate.h
+	<iostream>
+	"Nod_dublu.h"
+
+1598969151 c:\users\dumitru\desktop\c++\tema 2 poo\include\nod_dublu.h
+	<iostream>
+	"Nod.h"
+
+1598969151 c:\users\dumitru\desktop\c++\tema 2 poo\include\nod.h
+	<iostream>
+
+1598969151 source:c:\users\dumitru\desktop\c++\tema 2 poo\src\exceptia.cpp
+	"Exceptia.h"
+
+1598969151 c:\users\dumitru\desktop\c++\tema 2 poo\include\exceptia.h
+	<exception>
+
+1598969151 source:c:\users\dumitru\desktop\c++\tema 2 poo\src\nod.cpp
+	"Nod.h"
+
+1598969151 source:c:\users\dumitru\desktop\c++\tema 2 poo\src\nod_dublu.cpp
+	"Nod_dublu.h"
+
+1598969151 source:c:\users\dumitru\desktop\c++\tema 2 poo\src\nod_prioritate.cpp
+	"Nod_prioritate.h"
+	"Exceptia.h"
+
+1598969151 source:c:\users\dumitru\desktop\c++\tema 2 poo\src\node1.cpp
+	"Node1.h"
+
+1598969151 c:\users\dumitru\desktop\c++\tema 2 poo\include\node1.h
+	<iostream>
+
